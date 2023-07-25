@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AADmitriy
-- 👀 I’m interested in Django framework, AI, C++, Python
+- 👀 I’m interested in Django framework, AI, C++, JS, Python
 - 🌱 I’m currently learning Botstrap and Django
 
 
